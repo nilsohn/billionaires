@@ -1,2 +1,2 @@
 # billionaires
-Benjamin, Nils, Jan
+Benjamin, Nils, Jan, Rakesh
